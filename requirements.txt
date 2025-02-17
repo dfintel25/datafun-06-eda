@@ -126,6 +126,7 @@ ipython
 
 # Core Jupyter functionality required for running notebooks in VS Code (50-60 MB).
 jupyter
+#jupterlab #Enables Jupyter notebooks.
 
 # Kernel interface for Jupyter notebooks (required for proper kernel registration)
 ipykernel
@@ -139,7 +140,7 @@ ipywidgets
 # ======================================================
 
 # Numerical computations and arrays (20-30 MB)
-#numpy
+numpy
 
 # Data manipulation and analysis (built on numpy, 10-20 MB)
 pandas
@@ -194,3 +195,6 @@ seaborn
 
 # SpaCy: A powerful NLP library ~50 MB (core library; language models + ~300 MB or more per model).
 #spacy
+
+#Handles data manipulation and analysis, focusing on structured (tabular/panel) data.
+pyarrow
