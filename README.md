@@ -32,3 +32,15 @@ git push -u origin main
    git clone example-repo-url
 3. Open your new cloned repository in VS Code.
 ```
+### Project 6 Dataset Info
+```
+For this project, I elected to use a native Seaborn dataset for ease of clean data. 
+Here is repository of Seaborn datasets: [text](https://github.com/mwaskom/seaborn-data)
+Here is the specific dataset I used, 'mpg': [mpg
+](https://github.com/mwaskom/seaborn-data/blob/master/mpg.csv)
+```
+### Accessing the dataset
+```
+When using a native Seaborn dataset, I was able to have my code call the 'mpg' dataset directly.
+[Code_Snip](image.png)
+```
