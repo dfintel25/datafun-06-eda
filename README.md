@@ -42,5 +42,5 @@ Here is the specific dataset I used, 'mpg': [mpg
 ### Accessing the dataset
 ```
 When using a native Seaborn dataset, I was able to have my code call the 'mpg' dataset directly.
-[Code_Snip](image.png)
+[Code_Snip](/image.png)
 ```
