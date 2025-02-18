@@ -42,4 +42,6 @@ Here is the specific dataset I used, 'mpg': (https://github.com/mwaskom/seaborn-
 ```
 When using a native Seaborn dataset, I was able to have my code call the 'mpg' dataset directly.
 ![Code_Snip](/image.png?raw=true "mpg snip")
+![image](https://github.com/user-attachments/assets/50fa59d9-6c86-4b91-9466-b06ff28a46d2)
+
 ```
