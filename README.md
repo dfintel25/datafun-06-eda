@@ -41,5 +41,6 @@ Here is the specific dataset I used, 'mpg': (https://github.com/mwaskom/seaborn-
 ### Accessing the dataset
 ```
 When using a native Seaborn dataset, I was able to have my code call the 'mpg' dataset directly.
-![Code_Snip](/image.png?raw=true "mpg snip")
+df = sns.load_dataset('mpg')
+![Code_Snip](image.png/image.png?raw=true "mpg snip")
 ```
